@@ -72,13 +72,17 @@ try {
 
     github_devices_write($newItems, $data['sha']);
 
+    // Desativa o bloqueio na resposta temporariamente.
+    $blocked = false;
+    $message = '';
+
     $link = github_link_read();
 
     echo json_encode([
         'ok' => true,
         'plan_active' => !empty($settings['plan_active']),
-        'device_blocked' => false,
-        'message' => '',
+        'device_blocked' => $blocked,
+        'message' => $message,
         'dialog' => (string)($settings['dialog_message'] ?? ''),
         'unitv_url' => $link['url']
     ], JSON_UNESCAPED_UNICODE);
