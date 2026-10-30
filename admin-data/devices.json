@@ -14,5 +14,13 @@
         "model": "Xiaomi 25028PC03G",
         "android_version": "15",
         "last_seen": "2026-10-30T16:07:09+00:00"
+    },
+    {
+        "device_id": "e08a9dff9b43a26b",
+        "blocked": false,
+        "message": "",
+        "model": "Google UniTV V10",
+        "android_version": "10",
+        "last_seen": "2026-10-30T16:07:40+00:00"
     }
 ]
