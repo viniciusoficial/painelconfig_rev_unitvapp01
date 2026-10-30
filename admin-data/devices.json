@@ -1,18 +1,18 @@
 [
     {
-        "device_id": "df57321d24a3e5bb",
-        "blocked": false,
-        "message": "",
-        "model": "Google UniTV V10",
-        "android_version": "10",
-        "last_seen": "2026-10-30T16:01:51+00:00"
-    },
-    {
         "device_id": "3719bc141836b106",
         "blocked": false,
         "message": "Teste",
         "model": "Xiaomi 25028PC03G",
         "android_version": "15",
         "last_seen": "2026-10-30T16:02:20+00:00"
+    },
+    {
+        "device_id": "df57321d24a3e5bb",
+        "blocked": false,
+        "message": "",
+        "model": "Google UniTV V10",
+        "android_version": "10",
+        "last_seen": "2026-10-30T16:03:11+00:00"
     }
 ]
