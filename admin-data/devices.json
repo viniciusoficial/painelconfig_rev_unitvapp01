@@ -16,7 +16,7 @@
         "device_hash": "41a44557361997c58394702730740165c91efc4a254005a2ab44ca6bfb70dc43"
     },
     {
-        "blocked": false,
+        "blocked": true,
         "message": "Teste",
         "model": "Xiaomi 25028PC03G",
         "android_version": "15",
