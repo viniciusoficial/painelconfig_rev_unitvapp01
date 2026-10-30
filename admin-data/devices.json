@@ -1,26 +1,26 @@
 [
     {
-        "device_id": "df57321d24a3e5bb",
         "blocked": false,
         "message": "",
         "model": "Google UniTV V10",
         "android_version": "10",
-        "last_seen": "2026-10-30T16:04:34+00:00"
+        "last_seen": "2026-10-30T16:04:34+00:00",
+        "device_hash": "b74b57cd641262ef80d6bfe9f5b005b120dfcae5e1eb3e8ea118048086af329f"
     },
     {
-        "device_id": "e08a9dff9b43a26b",
         "blocked": false,
         "message": "",
         "model": "Google UniTV V10",
         "android_version": "10",
-        "last_seen": "2026-10-30T16:13:07+00:00"
+        "last_seen": "2026-10-30T16:13:07+00:00",
+        "device_hash": "41a44557361997c58394702730740165c91efc4a254005a2ab44ca6bfb70dc43"
     },
     {
-        "device_id": "3719bc141836b106",
         "blocked": false,
         "message": "Teste",
         "model": "Xiaomi 25028PC03G",
         "android_version": "15",
-        "last_seen": "2026-10-30T16:21:41+00:00"
+        "last_seen": "2026-10-30T17:44:50+00:00",
+        "device_hash": "f23fa4b4682a1a80f72927afef6b55bcc1c9b65f03d59244d07d6e652eeed2f0"
     }
 ]
