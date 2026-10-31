@@ -198,5 +198,13 @@
         "model": "rockchip UniTV V10",
         "android_version": "7.1.2",
         "last_seen": "2026-10-31T22:52:15+00:00"
+    },
+    {
+        "device_hash": "13c02f4b53dd74080b8bd85470ba584d97e8cee2ddda4e55ef9f65f8d1ea589e",
+        "blocked": false,
+        "message": "",
+        "model": "Allwinner UniTV V10",
+        "android_version": "14",
+        "last_seen": "2026-10-31T22:57:03+00:00"
     }
 ]
