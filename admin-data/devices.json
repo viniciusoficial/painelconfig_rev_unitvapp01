@@ -246,5 +246,13 @@
         "model": "Allwinner UniTV V10",
         "android_version": "14",
         "last_seen": "2026-10-31T23:30:29+00:00"
+    },
+    {
+        "device_hash": "d3431a1822aee26e21dde625c815e3ade3e454e12d329474d2c2523d229aa9fe",
+        "blocked": false,
+        "message": "",
+        "model": "Allwinner UniTV V10",
+        "android_version": "14",
+        "last_seen": "2026-10-31T23:32:12+00:00"
     }
 ]
