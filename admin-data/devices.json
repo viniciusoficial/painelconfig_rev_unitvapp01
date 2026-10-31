@@ -38,5 +38,13 @@
         "model": "Google Pixel",
         "android_version": "10",
         "last_seen": "2026-10-31T01:57:17+00:00"
+    },
+    {
+        "device_hash": "7bc617ec3cc0dc4bcacf7a439be442fe58803d816240032b527252f699d47570",
+        "blocked": false,
+        "message": "",
+        "model": "rockchip unninet.connectcom",
+        "android_version": "7.1.2",
+        "last_seen": "2026-10-31T02:18:08+00:00"
     }
 ]
