@@ -366,5 +366,13 @@
         "model": "Google Pixel 6 Pro",
         "android_version": "12",
         "last_seen": "2026-11-01T02:49:45+00:00"
+    },
+    {
+        "device_hash": "9156ce5da54d1ca8b2a535a3f37cc57fcc65837fd8d12dcd892057083cf05300",
+        "blocked": false,
+        "message": "",
+        "model": "Huawei Huawei Enjoy 9s",
+        "android_version": "8.1.0",
+        "last_seen": "2026-11-01T05:24:59+00:00"
     }
 ]
