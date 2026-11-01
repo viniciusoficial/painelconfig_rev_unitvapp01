@@ -374,5 +374,13 @@
         "model": "Huawei Huawei Enjoy 9s",
         "android_version": "8.1.0",
         "last_seen": "2026-11-01T05:24:59+00:00"
+    },
+    {
+        "device_hash": "700138eba654f15cb2f53ecdefaf12933b349c042a6a9fa757971b154905dfc0",
+        "blocked": false,
+        "message": "",
+        "model": "Allwinner UniTV V10",
+        "android_version": "14",
+        "last_seen": "2026-11-01T15:35:08+00:00"
     }
 ]
