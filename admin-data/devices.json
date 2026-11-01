@@ -350,5 +350,13 @@
         "model": "Google Pixel 6 Pro",
         "android_version": "12",
         "last_seen": "2026-11-01T02:45:47+00:00"
+    },
+    {
+        "device_hash": "6a10f70424d139b8caec2c5c06df93521e2d46580b1c4a1b05abd9e53dd5d213",
+        "blocked": false,
+        "message": "",
+        "model": "Google Pixel 6 Pro",
+        "android_version": "12",
+        "last_seen": "2026-11-01T02:47:30+00:00"
     }
 ]
