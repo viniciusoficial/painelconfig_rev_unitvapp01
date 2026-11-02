@@ -606,5 +606,13 @@
         "model": "dolphin TVBOX",
         "android_version": "13.1",
         "last_seen": "2026-11-02T21:25:30+00:00"
+    },
+    {
+        "device_hash": "7aafbd8457f4c991a346d9482e854aa8f5897ad9a9e1fe7e6896588558707afb",
+        "blocked": false,
+        "message": "",
+        "model": "rockchip unninet.connectcom",
+        "android_version": "7.1.2",
+        "last_seen": "2026-11-02T21:29:23+00:00"
     }
 ]
