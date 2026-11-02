@@ -646,5 +646,13 @@
         "model": "rockchip UniTV V10",
         "android_version": "7.1.2",
         "last_seen": "2026-11-02T21:50:50+00:00"
+    },
+    {
+        "device_hash": "a294d3d115e7bed97629bbf9c5e325ba916227716c3eec6705e33892ea94def7",
+        "blocked": false,
+        "message": "",
+        "model": "dolphin TVBOX",
+        "android_version": "13.1",
+        "last_seen": "2026-11-02T22:05:44+00:00"
     }
 ]
