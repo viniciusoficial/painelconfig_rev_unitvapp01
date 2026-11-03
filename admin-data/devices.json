@@ -1070,5 +1070,13 @@
         "model": "Allwinner UniTV V10",
         "android_version": "14",
         "last_seen": "2026-11-03T12:07:45+00:00"
+    },
+    {
+        "device_hash": "984637936da2e98e7a569553d1f8248fe37f02c1c33b3490868041496ad23ebf",
+        "blocked": false,
+        "message": "",
+        "model": "dolphin TVBOX",
+        "android_version": "13.1",
+        "last_seen": "2026-11-03T12:09:46+00:00"
     }
 ]
