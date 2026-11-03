@@ -1150,5 +1150,13 @@
         "model": "dolphin TVBOX",
         "android_version": "13.1",
         "last_seen": "2026-11-03T12:54:33+00:00"
+    },
+    {
+        "device_hash": "35c7aac5d3cd893061a4cffed713ea38dc11777dbe25a6c16e716d273d1a0861",
+        "blocked": false,
+        "message": "",
+        "model": "Allwinner az litoral tech",
+        "android_version": "7.0",
+        "last_seen": "2026-11-03T13:20:02+00:00"
     }
 ]
