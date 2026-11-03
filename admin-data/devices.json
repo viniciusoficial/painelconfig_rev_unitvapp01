@@ -1262,5 +1262,13 @@
         "model": "Allwinner az litoral tech",
         "android_version": "7.0",
         "last_seen": "2026-11-03T19:59:40+00:00"
+    },
+    {
+        "device_hash": "bc8f27892e9de5cddfdb881ceefd8c05e8e5654a4b89bf92778d69c9fa33d467",
+        "blocked": false,
+        "message": "",
+        "model": "Allwinner az litoral tech",
+        "android_version": "7.0",
+        "last_seen": "2026-11-03T20:06:24+00:00"
     }
 ]
