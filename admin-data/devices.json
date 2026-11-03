@@ -870,5 +870,13 @@
         "model": "dolphin TVBOX",
         "android_version": "13.1",
         "last_seen": "2026-11-03T00:44:10+00:00"
+    },
+    {
+        "device_hash": "c0ca10c2b67e43945ae9806449deca2df0a3545887461fb0875a410cb0c48b1e",
+        "blocked": false,
+        "message": "",
+        "model": "dolphin TVBOX",
+        "android_version": "13.1",
+        "last_seen": "2026-11-03T00:47:14+00:00"
     }
 ]
