@@ -1326,5 +1326,13 @@
         "model": "rockchip Smart box TV 4K",
         "android_version": "7.1.2",
         "last_seen": "2026-11-03T20:38:55+00:00"
+    },
+    {
+        "device_hash": "b0abf3d7131e1fc7938853b039ed2fd6b631c16a9e0cd7ead18f3057b19c2235",
+        "blocked": false,
+        "message": "",
+        "model": "dolphin TVBOX",
+        "android_version": "13.1",
+        "last_seen": "2026-11-03T20:41:41+00:00"
     }
 ]
