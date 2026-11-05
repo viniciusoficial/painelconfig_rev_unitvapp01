@@ -1382,5 +1382,13 @@
         "model": "Google UniTV V10",
         "android_version": "10",
         "last_seen": "2026-11-04T22:19:27+00:00"
+    },
+    {
+        "device_hash": "6ccd70af1e7fc11a5fffa718edac4238054b15d3da76dd4933e5b3fd739ccbd7",
+        "blocked": false,
+        "message": "",
+        "model": "rockchip Smart box TV 4K",
+        "android_version": "7.1.2",
+        "last_seen": "2026-11-05T12:07:32+00:00"
     }
 ]
