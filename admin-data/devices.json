@@ -1390,5 +1390,13 @@
         "model": "rockchip Smart box TV 4K",
         "android_version": "7.1.2",
         "last_seen": "2026-11-05T12:09:40+00:00"
+    },
+    {
+        "device_hash": "a9d33f915ce28cd9d177eac2fea9a8403040fc83bb72da4bc41b0f201c1229e2",
+        "blocked": false,
+        "message": "",
+        "model": "rockchip unninet.connectcom",
+        "android_version": "7.1.2",
+        "last_seen": "2026-11-05T15:31:04+00:00"
     }
 ]
