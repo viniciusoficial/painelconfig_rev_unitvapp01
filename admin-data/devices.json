@@ -1558,5 +1558,13 @@
         "model": "rockchip unninet.connectcom",
         "android_version": "7.1.2",
         "last_seen": "2026-11-06T13:58:49+00:00"
+    },
+    {
+        "device_hash": "71bf37d3105bf9fc399356371a2f112ed01d2ed3860d660b0d65d51a76843aab",
+        "blocked": false,
+        "message": "",
+        "model": "rockchip unninet.connectcom",
+        "android_version": "7.1.2",
+        "last_seen": "2026-11-06T14:07:47+00:00"
     }
 ]
