@@ -1510,5 +1510,13 @@
         "model": "rockchip unninet.connectcom",
         "android_version": "7.1.2",
         "last_seen": "2026-11-05T22:01:38+00:00"
+    },
+    {
+        "device_hash": "57b4238cb2377f1008a40ec8ca932bfca6ccf14f9cf112c4abe849ebb7a410f3",
+        "blocked": false,
+        "message": "",
+        "model": "Google UniTV V10",
+        "android_version": "7.1.2",
+        "last_seen": "2026-11-06T11:52:43+00:00"
     }
 ]
