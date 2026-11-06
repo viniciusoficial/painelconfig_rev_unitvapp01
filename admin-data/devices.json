@@ -1681,7 +1681,7 @@
     },
     {
         "device_hash": "77484952bd5d1f9f51f9962f47eb0f3d8ba045608280784831c3ffc865ced540",
-        "blocked": true,
+        "blocked": false,
         "message": "",
         "model": "Google UniTV V10",
         "android_version": "7.1.2",
