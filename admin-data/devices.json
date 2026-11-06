@@ -1673,7 +1673,7 @@
     },
     {
         "device_hash": "288276bf3691c607133a18a889e7bab0c606d20f38d5ce492db7732511cd198c",
-        "blocked": false,
+        "blocked": true,
         "message": "",
         "model": "rockchip unninet.connectcom",
         "android_version": "7.1.2",
