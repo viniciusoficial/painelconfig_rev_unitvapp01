@@ -2134,5 +2134,13 @@
         "model": "Google UniTV V10",
         "android_version": "10",
         "last_seen": "2026-11-08T15:54:29+00:00"
+    },
+    {
+        "device_hash": "3c7e4edba2dcff6f07de58e251ac1948159687bdbf5a9a93ed05d6759e310ced",
+        "blocked": false,
+        "message": "",
+        "model": "dolphin TVBOX",
+        "android_version": "13.1",
+        "last_seen": "2026-11-08T15:59:14+00:00"
     }
 ]
