@@ -2398,5 +2398,13 @@
         "model": "rockchip unninet.connectcom",
         "android_version": "7.1.2",
         "last_seen": "2026-11-09T13:39:28+00:00"
+    },
+    {
+        "device_hash": "fb15a931bc105963b7c68407ffd815f7fcbabf7d9bad16e3e1e95993111e9bcf",
+        "blocked": false,
+        "message": "",
+        "model": "dolphin TVBOX",
+        "android_version": "13.1",
+        "last_seen": "2026-11-09T14:18:24+00:00"
     }
 ]
