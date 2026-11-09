@@ -2494,5 +2494,13 @@
         "model": "rockchip UniTV V10",
         "android_version": "7.1.2",
         "last_seen": "2026-11-09T20:13:20+00:00"
+    },
+    {
+        "device_hash": "94d3588ea054d8d6db07e29a83e5e1a6d7c89abc2e762e81b09926f86c8b5cff",
+        "blocked": false,
+        "message": "",
+        "model": "rockchip UniTV V10",
+        "android_version": "7.1.2",
+        "last_seen": "2026-11-09T20:20:10+00:00"
     }
 ]
