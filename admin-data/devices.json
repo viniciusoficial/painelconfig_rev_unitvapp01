@@ -2526,5 +2526,13 @@
         "model": "Google UniTV V12",
         "android_version": "10",
         "last_seen": "2026-11-10T12:48:36+00:00"
+    },
+    {
+        "device_hash": "798e17ee56cdd3c2744114a9c3a0265b40016e3b42ac1713c79d4c6c6937c6e2",
+        "blocked": false,
+        "message": "",
+        "model": "Google UniTV V10",
+        "android_version": "10",
+        "last_seen": "2026-11-10T18:47:15+00:00"
     }
 ]
