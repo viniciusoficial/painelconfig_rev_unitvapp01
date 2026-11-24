@@ -3142,5 +3142,13 @@
         "model": "Google UniTV V10",
         "android_version": "10",
         "last_seen": "2026-11-20T00:37:42+00:00"
+    },
+    {
+        "device_hash": "5d9d97cdacab97a1d4d42e4c57e365c6560a16774331e9ec6198053c12525ba1",
+        "blocked": false,
+        "message": "",
+        "model": "rockchip UniTV V10",
+        "android_version": "7.1.2",
+        "last_seen": "2026-11-24T19:05:23+00:00"
     }
 ]
